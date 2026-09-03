@@ -662,12 +662,12 @@ assignments/chapter02/images/
 LMS 제출 URL 형식:
 
 ```text
-https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/chapter02/chapter02_answer.md
+https://github.com/koreajjangboy/ai-database-study/blob/b4ee67cf042c23174277ffc16522c39abc1a9d47/assignments/chapter02/chapter02_answer.md
 ```
 
 ## 최종 확인
 
-- [ ] 위 URL을 로그아웃 상태 또는 다른 브라우저에서 열어도 확인 가능하다.
-- [ ] Markdown이 정상 렌더링된다.
-- [ ] 이미지가 깨지지 않는다.
-- [ ] LMS에 교수자 템플릿 URL이 아니라 **내 답안 파일 URL**을 제출했다.
+- [x] 위 URL을 로그아웃 상태 또는 다른 브라우저에서 열어도 확인 가능하다.
+- [x] Markdown이 정상 렌더링된다.
+- [x] 이미지가 깨지지 않는다.
+- [x] LMS에 교수자 템플릿 URL이 아니라 **내 답안 파일 URL**을 제출했다.

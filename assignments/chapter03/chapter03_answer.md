@@ -528,13 +528,13 @@ Error position: line: 1
 아래 형식의 **본인 GitHub 파일 URL**을 LMS에 제출합니다.
 
 ```text
-https://github.com/koreajjangboy/ai-database-study/blob/ba4fad7d4694f06a003e9a321f5fc585ea69de82/assignments/chapter03/chapter03_answer.md
+https://github.com/koreajjangboy/ai-database-study/blob/eb6451780691e93224e8ff865d7fd5bc6b62477b/assignments/chapter04/chapter04_answer.md
 ```
 
 내 제출 URL:
 
 ```text
-https://github.com/koreajjangboy/ai-database-study/blob/ba4fad7d4694f06a003e9a321f5fc585ea69de82/assignments/chapter03/chapter03_answer.md
+https://github.com/koreajjangboy/ai-database-study/blob/eb6451780691e93224e8ff865d7fd5bc6b62477b/assignments/chapter04/chapter04_answer.md
 ```
 
 > 저장소 메인 URL, 교수자 템플릿 URL, Raw URL이 아니라 **작성 완료된 본인 `chapter03_answer.md` 파일 화면 URL**을 제출합니다.

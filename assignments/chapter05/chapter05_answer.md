@@ -767,7 +767,7 @@ CREATE TABLE loans (
 아래 형식의 **본인 GitHub 파일 URL**을 LMS에 제출합니다.
 
 ```text
-https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/chapter05/chapter05_answer.md
+https://github.com/koreajjangboy/ai-database-study/blob/b560c9425e6971d565c6ba5c911b0c0182ca2c33/assignments/chapter05/chapter05_answer.md
 ```
 
 내 제출 URL:

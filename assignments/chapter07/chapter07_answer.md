@@ -725,7 +725,7 @@ P07-MQ03. 탈퇴한 회원의 개인 정보를 완전히 삭제할 것인가, �
 아래 형식의 **본인 GitHub 파일 URL**을 LMS에 제출합니다.
 
 ```text
-https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/chapter07/chapter07_answer.md
+https://github.com/koreajjangboy/ai-database-study/blob/1d5d2936ec96f5772ee02bf963fdede34cc88137/assignments/chapter07/chapter07_answer.md
 ```
 
 내 제출 URL:

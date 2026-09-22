@@ -11,9 +11,9 @@
 이 파일과 캡처 화면에는 실제 비밀번호, 전체 DB 접속 URL, API Key, 개인정보를 기록하지 않습니다.
 
 ```text
-GitHub 계정 또는 별칭:
-과제 작성일:
-사용한 AI 도구:
+GitHub 계정 또는 별칭: koreajjangboy
+과제 작성일: 2026-09-22
+사용한 AI 도구: Gemini
 ```
 
 ---

@@ -801,7 +801,7 @@ https://github.com/<본인-GitHub-ID>/<본인-저장소>/blob/main/assignments/c
 내 제출 URL:
 
 ```text
-
+https://github.com/koreajjangboy/ai-database-study/blob/3d5fde22ff6de21d10aea7b2af26f223d3ba5631/assignments/chapter09/chapter09_answer.md
 ```
 
 > 교수자 템플릿 URL, 저장소 메인 URL, Raw URL이 아니라 **작성 완료된 본인의 `chapter09_answer.md` 파일 화면 URL**을 제출합니다.
